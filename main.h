@@ -10,17 +10,7 @@
 
 #include <limits.h>
 
-/**
- * in this file main.h there are:-
- * structure
- * functions
- * defined preprocessor values
- */
-
-/**
- * @x: value gonna be unused
- *
- */
+/** Description: structure, functions */
 
 #define UNUSED(x) (void)(x)
 
